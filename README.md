@@ -23,4 +23,4 @@ List of Protocols with liquidator opportunities. Inspired by https://twitter.com
 |Notional            |Ethereum                  |          |       |Fixed Term Lender       ||||
 |Yield Protocol      |Ethereum                  |          |       |Fixed Term Lender       ||||
 |Unit Protocol       |Ethereum, BSC             |          |       |Stablecoin Generator    ||||
-|[Mai Finance](https://www.mai.finance/)|[Polygon](https://polygon.technology/)|[Liquidation Docs](https://docs.mai.finance/liquidation), [Github](https://github.com/0xlaozi/qidao), [Stats](https://app.mai.finance/analytics)|Fixed Discount, FCFS|Stablecoin Generator|10%|?||
+|[Mai Finance](https://www.mai.finance/)|[Polygon](https://polygon.technology/)|[Liquidation Docs](https://docs.mai.finance/liquidation), [Github](https://github.com/0xlaozi/qidao), [Stats](https://app.mai.finance/analytics)|Fixed Discount, Partial Liquidations only, FCFS|Stablecoin Generator|5% of borrowers collateral(can only liq half of collateral at 10% liq penalty)|?||
